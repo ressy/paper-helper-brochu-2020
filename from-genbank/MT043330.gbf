@@ -1,0 +1,65 @@
+LOCUS       MT043330                 963 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta T cell receptor gamma 1 constant region (TCRG1)
+            mRNA, partial cds.
+ACCESSION   MT043330
+VERSION     MT043330.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 963)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 963)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..963
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..963
+                     /gene="TCRG1"
+     C_region        1..963
+                     /gene="TCRG1"
+     CDS             <1..521
+                     /gene="TCRG1"
+                     /codon_start=3
+                     /product="T cell receptor gamma 1 constant region"
+                     /protein_id="QJB76137.1"
+                     /translation="KHLDADVSPKPTIFLPSIAETNLHKAGTYLCLLENFFPDVIKIH
+                     WQEKKSNTILGSQEGNTVKTNDTYMKFSWLTVPEKSLDKEHRCIVRHENNKNGVDQEI
+                     IFPPIKTDVTTMDPKDNCSKDANDALLLQLTNTSAYYMYLLLLVKSEVYFAIIAVCLL
+                     RRTAVCCNGERS"
+     3'UTR           522..963
+                     /gene="TCRG1"
+ORIGIN      
+        1 ataaacacct tgatgcagat gtttcaccca agcccactat atttcttcct tccattgctg
+       61 aaacaaacct ccataaggct ggaacatacc tttgtcttct tgagaatttt ttcccggatg
+      121 ttattaagat acattggcaa gaaaagaaga gcaacacgat tctgggatcc caggagggga
+      181 acaccgtgaa gactaacgac acatacatga aatttagctg gttaacggtg ccagaaaagt
+      241 cactggataa agagcacaga tgtatcgtca gacatgagaa taataaaaat ggagttgatc
+      301 aagaaattat ctttcctcca ataaagacag atgtcaccac aatggatccc aaagacaatt
+      361 gttcaaaaga tgcaaatgat gcactactgc tgcagctcac aaacacctct gcatattaca
+      421 tgtacctcct cctgctcgtc aagagtgagg tctattttgc catcatcgcc gtctgtctgc
+      481 ttagaagaac ggctgtctgc tgcaatggag agagatcgta acagacggtg gcacaaggac
+      541 gccatctttt tctcatcggc tattgtccct agaagtgtct tctgaggatc tacttgggct
+      601 ttctttccgg gtttgggcta tttcagttct catgtgtgta ctattctatc attgttgtat
+      661 aatggttttc aaaccagtgg gcacacggaa aacctcactc tgtgatgaca atgaggaata
+      721 gccatggcgg tctccagcac cactctctcc atattctcca cagctcctcc agccaaccca
+      781 aatagccact gccatggtgt agacagtccg cggcttctag ccttgtccct cccttagtgt
+      841 tctttaatca gataactgcc tggaagcctt tcattttaca caccctgaag cagccttctt
+      901 tgctagttga attatgtggt gtgtttttcc taataggcaa aataaatttt aaaagatgaa
+      961 aag
+//

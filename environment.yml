@@ -1,0 +1,9 @@
+name: paper-helper-brochu-2020
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - openpyxl
+  - biopython
+  - snakemake

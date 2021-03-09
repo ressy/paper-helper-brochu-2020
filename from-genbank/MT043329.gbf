@@ -1,0 +1,73 @@
+LOCUS       MT043329                1505 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta T cell receptor delta constant region (TCRD) mRNA,
+            partial cds.
+ACCESSION   MT043329
+VERSION     MT043329.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 1505)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1505)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..1505
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..1505
+                     /gene="TCRD"
+     C_region        1..1505
+                     /gene="TCRD"
+     CDS             <1..458
+                     /gene="TCRD"
+                     /codon_start=3
+                     /product="T cell receptor delta constant region"
+                     /protein_id="QJB76136.1"
+                     /translation="RQPHTKPSVFVMKNGTNVACLVKDFYPKDIRINLESSKKITEFD
+                     PAIVVSPSGKYNAVKLGQYADSNSVTCSVQHNKEVVYSTDFEVKTNSTDHLKPTETEN
+                     TKQPSKSCHEPKVHAEKVNMMSLTVLGLRMLFAKSVAINFLLTAKLLFL"
+     3'UTR           459..1505
+                     /gene="TCRD"
+ORIGIN      
+        1 aaagacaacc tcataccaaa ccatccgttt tcgtcatgaa aaatgggaca aatgttgctt
+       61 gtctggtgaa ggacttctac cccaaggata taagaataaa tctcgagtca tccaagaaga
+      121 taacagagtt tgatcctgct attgtcgtct ctcccagtgg gaagtacaat gctgtcaagc
+      181 ttggtcaata tgcagattca aattcagtga catgctcagt tcaacacaac aaggaagttg
+      241 tgtactccac tgactttgaa gtgaagacaa attctacaga tcacctaaaa ccaacggaaa
+      301 ctgaaaacac aaagcaacct tcaaagagct gccatgaacc caaagttcat gccgagaagg
+      361 tgaacatgat gtctctcaca gtgctgggac tacgaatgct gtttgcaaag agtgttgcca
+      421 tcaattttct cttgactgcc aagttacttt tcttgtaagg ctgactggca tgaggaagct
+      481 acactcctga agaaatcaaa ggcttacaaa aatgcatctc cttggcttct gacttcttga
+      541 tgattcaagt ggacctgtca tagccttgtt aaaatggctg ctagcccaac caatttttct
+      601 tcgaagacaa caaacccagc tcatcctcca gcttggtggg aagacaaaag tcctggggaa
+      661 gggggggttt atgtcctaac tgctttatat gctgttttga tacagggata gaaggttaca
+      721 aaaagatata ggacactttt tttactccta caactgatac actttgaaaa tgatgttttg
+      781 ttctttttga ctttctttac cttttgaagt agaaagtgag aaccaaaagg ttcacagctt
+      841 cattcctcat gaggaaaata ggccctggga gaagaagagc aggtgccctt ttatctaaac
+      901 atggaagact ctgctcaact gagcactgga tttgctacaa accagcatca tcttcttcct
+      961 cctgccctca cagcttgtcc cattctctat gttcacttca ggagccacac tagagattct
+     1021 gcatggcgtg gaggggggca aagttttagc actttctgca tctcctagta ctttacaaat
+     1081 gagattacat ttgaattcgc taatacttta tgagcaggca atggggtttc caaaatctca
+     1141 tctaaatact ctccagacta ttagcaaaaa tcagagtaaa atacagagga aaggcactgc
+     1201 tttctgttaa ttcatttaac atgcataaat tagctcgctc tgagttccag gcactgtact
+     1261 gagagtacaa agaagacata agtctgcttt caagcaactc cctgtgaaag tgtttttgaa
+     1321 gggaggaaca gaaatgagac ccctatcttt ctctacaaaa acaacatttt tactgtcttt
+     1381 tgcctgccaa tctgtgtttg aaaccattgc acactgattc tctggcctgg taccttggta
+     1441 ttgatggttt tctgcctttc ttctcagccc ctgtctctgt tgcatttatt aaactgcatt
+     1501 gtgtg
+//

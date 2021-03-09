@@ -1,0 +1,70 @@
+LOCUS       MT043318                1132 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta secreted immunoglobulin gamma 1 heavy chain constant
+            region (IGHG1) mRNA, partial cds.
+ACCESSION   MT043318
+VERSION     MT043318.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 1132)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1132)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..1132
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..1132
+                     /gene="IGHG1"
+     C_region        1..1132
+                     /gene="IGHG1"
+     CDS             <1..1001
+                     /gene="IGHG1"
+                     /codon_start=3
+                     /product="secreted immunoglobulin gamma 1 heavy chain
+                     constant region"
+                     /protein_id="QJB76125.1"
+                     /translation="STKGPSVFPLAPSSRSTSESTAALGCLVKDYFPEPVTVSWNSGS
+                     LTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYVCNVNHKPSNTKVDKRVEIKTC
+                     GGGSKPPTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSPGRPRCQV
+                     QLVRKGAEVHHAQTKPRETQYNSTYRVVSVLTVTHQDWLNGKEYTCKVSNKALPAPIQ
+                     KTISKDKGQPREPQVYTLPPSREELTKNQVSLTCLVKGFYPSDIVVEWESSGQPENTY
+                     KTTPPVLDSDGSYFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSVSPGK"
+     3'UTR           1002..1132
+                     /gene="IGHG1"
+ORIGIN      
+        1 cctccaccaa gggcccatcg gtcttccccc tggcgccctc ctccaggagc acctccgaga
+       61 gcacagcggc cctgggctgc ctggtcaagg actacttccc tgaacccgtg accgtgtcgt
+      121 ggaactcagg ctccctgacc agcggcgtgc acaccttccc ggctgtccta cagtcctcag
+      181 ggctctactc cctcagcagc gtggtgaccg tgccctccag cagcttgggc acccagacct
+      241 acgtctgcaa cgtaaaccac aagcccagca acaccaaggt ggacaagaga gttgagataa
+      301 aaacatgtgg tggtggcagc aaacctccca cgtgcccacc gtgcccagca cctgaactcc
+      361 tggggggacc gtcagtcttc ctcttccccc caaaacccaa ggacaccctc atgatctccc
+      421 ggacccctga ggtcacgtgc gtggtggtag acgtgagccc aggaagaccc cgatgtcaag
+      481 ttcaactggt acgtaaaggc gcggaggtgc atcatgccca gacgaagcca cgggagacgc
+      541 agtacaacag cacatatcgt gtggtcagcg tcctcaccgt cacgcaccag gactggctga
+      601 acggcaagga gtacacgtgc aaggtctcca acaaagccct cccggccccc atccagaaaa
+      661 ccatctccaa agacaaaggg cagccccgag agcctcaggt gtacaccctg cccccgtccc
+      721 gggaggagct gaccaagaac caggtcagcc tgacctgcct ggtcaaaggc ttctacccca
+      781 gcgacatcgt cgtggagtgg gagagcagcg ggcagccgga gaacacctac aagaccaccc
+      841 cgcccgtgct ggactccgac ggctcctact tcctctacag caagctcacc gtggacaaga
+      901 gcaggtggca gcaggggaac gtcttctcat gctccgtgat gcatgaggct ctgcacaacc
+      961 actacaccca gaagagcctc tccgtgtctc cgggtaaatg agtgcgacac ccggcaagcc
+     1021 cccgcccccc gggctctcgg ggtggcacga ggatgcttgg cccgcacccc gtgtacatac
+     1081 ttcccaggcg cccggcatgg aaataaagca cccagcgctg ccctgggccc ct
+//

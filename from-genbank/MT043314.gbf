@@ -1,0 +1,71 @@
+LOCUS       MT043314                1065 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta seccreted immunoglobulin alpha heavy chain constant
+            region (IGHA) mRNA, partial cds.
+ACCESSION   MT043314
+VERSION     MT043314.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 1065)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1065)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..1065
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..1065
+                     /gene="IGHA"
+     C_region        1..1065
+                     /gene="IGHA"
+     CDS             <1..1022
+                     /gene="IGHA"
+                     /note="hinge region: VSQTKPCLCDEPRL"
+                     /codon_start=3
+                     /product="seccreted immunoglobulin alpha heavy chain
+                     constant region"
+                     /protein_id="QJB76121.1"
+                     /translation="SPTRPKVFPLSLEGTQSDNVVVACLVQGFFPQEPLNVTWSKSGA
+                     GVTVINFPPSQDASGGLYTTSSQLTLPAAQCPASESVTCHVEHYTNARQDVAVPCVSQ
+                     TKPCLCDEPRLSLRRPALEDLLLGSEANLTCTLTGLRDPSGATFTWTPSSGKNAVQQS
+                     PKRDPCGCYSVSSVLPGCAEPWNNRVTFTCKAEHPELETPLTATISKSGNTFRPEVHL
+                     LPPPSEELALNELVTLTCLARGFSPEDVLVRWLKGTEQLPRDKYLTWESRKEPSQGTT
+                     TFAVTSILRVAAEDWKKGDTFSCMVGHEALPLAFTQKTIDRLAGKPTHVNVSVVMAEV
+                     DGTCY"
+     3'UTR           1023..1065
+                     /gene="IGHA"
+ORIGIN      
+        1 catccccgac cagacccaag gtcttcccgc tgagcctcga gggcacccag tcagataacg
+       61 tggtcgtcgc ctgcctggtc cagggcttct tcccccagga gccactcaac gtgacctgga
+      121 gcaaaagcgg agcgggcgtg accgtcataa acttcccgcc cagccaggac gcctccgggg
+      181 gcctgtacac cacgagcagc cagctgaccc tgccagctgc acagtgccca gccagcgagt
+      241 ccgtgacatg ccacgtggag cactacacaa atgccagaca ggatgtggct gtgccctgcg
+      301 tttcccaaac caagccttgc ttatgtgatg aaccccgact gtcgctgcgc cgaccagccc
+      361 tcgaggacct gctcctaggt tccgaggcga acctcacgtg cacactgacc ggcctgagag
+      421 atccctcggg tgccaccttc acctggacgc cctcaagtgg gaagaacgct gtccaacagt
+      481 cacctaagcg tgacccctgt ggctgctaca gtgtgtccag tgtcctgccc ggctgtgccg
+      541 agccatggaa caatagggtg accttcacct gcaaagctga gcaccctgag ttggagaccc
+      601 cactaactgc caccatctca aaatccggaa acacattccg gcccgaggtc cacctgctgc
+      661 cgccgccgtc ggaggagctg gccctgaacg agctggtgac gctgacgtgc ctggcacgcg
+      721 gcttcagccc cgaggacgtg ctggttcgct ggctgaaggg aacagagcag ctgccccgtg
+      781 acaagtacct gacttgggaa tcccggaagg agcccagcca gggcaccacc accttcgccg
+      841 tgaccagcat actgcgcgtg gcagccgagg actggaagaa gggggacacc ttctcctgca
+      901 tggtgggcca cgaggccctg ccgctggcct tcacacagaa gaccatcgac cgcctggcgg
+      961 gtaaacccac ccacgtcaat gtgtctgtgg tcatggcgga agtggacggc acctgctact
+     1021 gagccgcccg cctgtcccca cccctgaata aactccatgc tcccc
+//

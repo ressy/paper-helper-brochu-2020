@@ -1,0 +1,76 @@
+LOCUS       MT043311                1320 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta membrane-bound immunoglobulin alpha heavy chain
+            constant region (IGHA) mRNA, partial cds.
+ACCESSION   MT043311
+VERSION     MT043311.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 1320)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1320)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..1320
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..1320
+                     /gene="IGHA"
+     C_region        1..1320
+                     /gene="IGHA"
+     CDS             <1..1181
+                     /gene="IGHA"
+                     /note="hinge region: VPPITPPCPSCCEPRL"
+                     /codon_start=3
+                     /product="membrane-bound immunoglobulin alpha heavy chain
+                     constant region"
+                     /protein_id="QJB76118.1"
+                     /translation="SPTRPKVFPLNLCSTQSDNVVVACLVQGFFPQEPLNVTWSKSGA
+                     DVTVINFPPSQDASGGLYTTSSQLTLPAAQCPASESVTCHVEHYTNPSQDVAVPCVPP
+                     ITPPCPSCCEPRLSLRRPALEDLLLGSEANLTCTLTGLKDPSGATFTWTPSSGKNAVQ
+                     QSPKRDPCGCYSVSSVLPGCAEPWNNRETFTCTANHPELETPLTATISKSGNTFRPEV
+                     HLLPPPSEELALNELVTLTCLARGFSPEDVLIRWLKGTEQLPRDKYLTWESRKEPSQG
+                     TTTFAVTSILRVAAEDWKKGDTFSCMVGHEALPLAFTQKTIDRLAGSCCVTDWQMLPP
+                     YVVLDLPQETLEEETPGANLWPTTITFLTLFLLSLFYSTALTVTSVRGPSGNREGPQY
+                     "
+     3'UTR           1182..1320
+                     /gene="IGHA"
+ORIGIN      
+        1 catccccgac cagacccaag gtcttcccgc tgaacctctg cagcacccag tcagataacg
+       61 tggtcgtcgc ctgcctggtc cagggcttct tcccccagga gccactcaac gtgacctgga
+      121 gcaaaagtgg agcggacgtg actgtcataa acttcccgcc cagccaggac gcctctggcg
+      181 gcctgtacac cacgagcagc cagctgaccc tgccggccgc acagtgccca gccagcgagt
+      241 ccgtgacatg ccacgtggag cactacacaa atcccagcca ggatgtggct gtgccctgcg
+      301 ttcccccaat cacaccccca tgtccctcat gctgcgagcc ccgactgtcg ctgcgccggc
+      361 cggccctcga ggacctgctc ctaggttcag aagcgaacct cacgtgcaca ctgacaggcc
+      421 tgaaagatcc ctcgggtgcc accttcacct ggacgccctc aagtgggaag aacgctgtcc
+      481 aacagtcacc taagcgtgac ccctgtggct gctacagtgt gtccagtgtc ctgcccggct
+      541 gtgccgagcc atggaacaat agggagacct tcacctgcac tgctaatcac cctgagttgg
+      601 agaccccgct aaccgccacc atctcaaaat ccggaaacac attccggccc gaggtccacc
+      661 tgctgccgcc gccgtcggag gagctggccc tgaacgagct ggtgacgctg acgtgcctgg
+      721 cacgcggctt cagccccgag gacgtgctga ttcgctggct gaagggaaca gaacagctgc
+      781 cccgtgacaa gtacctgact tgggaatccc ggaaggagcc cagccagggc accaccacct
+      841 tcgccgtgac cagcatactt cgcgtggcag ccgaggactg gaagaagggg gacaccttct
+      901 cctgcatggt gggccacgag gccctgccgc tggccttcac acagaagacc atcgaccgcc
+      961 tggcgggctc ttgctgtgtt acagattggc agatgctgcc tccctatgtg gtgctggact
+     1021 tgccgcagga gaccctggag gaggagaccc ctggtgccaa cctgtggccc accaccatca
+     1081 ccttcctcac cctcttcctg ctgagcctgt tctatagcac agcactgacc gtgaccagcg
+     1141 tccggggtcc atctggcaac agggagggcc cccagtactg agcgagagcc agcaaggcac
+     1201 agggaggaag tatggaggaa cctcttggag aagccagcta tgcttgccag aactcagccc
+     1261 tttcagaaat cacctacccg cccttactca catcccttcc aggtgcaata aagtggtccc
+//

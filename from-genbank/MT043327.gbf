@@ -1,0 +1,61 @@
+LOCUS       MT043327                 753 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta T cell receptor beta 1 constant region (TCRB1) mRNA,
+            partial cds.
+ACCESSION   MT043327
+VERSION     MT043327.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..753
+                     /gene="TCRB1"
+     C_region        1..753
+                     /gene="TCRB1"
+     CDS             <1..533
+                     /gene="TCRB1"
+                     /codon_start=3
+                     /product="T cell receptor beta 1 constant region"
+                     /protein_id="QJB76134.1"
+                     /translation="DLKKVFPPKVAVFEPSEAEISHTQKATLVCLATGFYPDHVELSW
+                     WVNGKEVHSGVSTDPQPLKEQPALEDSRYCLSSRLRVSATFWHNPRNHFRCQVQFYGL
+                     SEDDEWTEDRDKPITQKISAEVWGRADCGFTSVSYQQGVLSATILYEILLGKATLYAV
+                     LVSALMLMAMVKRKDF"
+     3'UTR           534..753
+                     /gene="TCRB1"
+ORIGIN      
+        1 aggacctgaa aaaggtgttc ccacccaagg tcgctgtgtt tgagccatca gaagcagaga
+       61 tctcccacac ccaaaaggcc acgctggtgt gcctggccac aggcttctac cccgaccacg
+      121 tggagctgag ctggtgggtg aacgggaaag aggtgcacag tggggtcagc acggacccac
+      181 agcccctcaa ggagcagccc gccctcgagg actccagata ctgcctgagc agccgcctga
+      241 gggtctcggc caccttctgg cacaaccccc gcaaccactt ccgctgccaa gtccagttct
+      301 atgggctctc ggaggatgac gagtggaccg aggacaggga caagcccatc acccaaaaga
+      361 tcagcgccga ggtctggggt agagcagact gtggcttcac ctcggtgtcc taccagcaag
+      421 gggtcctgtc tgccaccatc ctctatgaga tcctgctggg gaaggccacc ctgtatgctg
+      481 tgctggtcag tgccctcatg ttgatggcca tggtcaagag gaaggatttc tgaaggcagc
+      541 cctggaagtg gaattaggag cttctaaccc gttgtgattt caatatacat tcttcttttg
+      601 ccagtgcttc tgaagagctg ctctcacctc tctacatccc aatagatacc cactatgtgc
+      661 atgcacgcct gcacactcac ggctgaaatc tccctaaccc aggggcacct tagcattcct
+      721 aagtgactaa gccaataaaa atgttctgat ctg
+//

@@ -1,0 +1,56 @@
+LOCUS       MT043325                 455 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta immunoglobulin lambda light chain constant region
+            (IGL) mRNA, partial cds.
+ACCESSION   MT043325
+VERSION     MT043325.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 455)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 455)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..455
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..455
+                     /gene="IGL"
+     C_region        1..455
+                     /gene="IGL"
+     CDS             <1..320
+                     /gene="IGL"
+                     /codon_start=3
+                     /product="immunoglobulin lambda light chain constant
+                     region"
+                     /protein_id="QJB76132.1"
+                     /translation="QPKASPSVTLFPPSSEELQANKATLVCLISDFYPGAVEVAWKAD
+                     GSAVNAGVETTKPSKQSNNKYAASSYLSLTSDQWKSHKSYSCQVTHEGSTVEKTVAPA
+                     ECS"
+     3'UTR           321..455
+                     /gene="IGL"
+ORIGIN      
+        1 gtcagcccaa ggcttccccc tcggtcactc tcttcccgcc ctcctctgag gagcttcaag
+       61 ccaacaaggc cacactagtg tgtctgatca gtgacttcta cccgggagcc gtggaagtgg
+      121 cctggaaggc agatggcagc gctgtcaacg cgggagtgga gaccaccaaa ccctccaaac
+      181 agagcaacaa caagtacgcg gccagcagct acctgagcct gacgtccgac cagtggaagt
+      241 cccacaagag ctacagctgc caggtcacgc acgaagggag caccgtggag aagacagtgg
+      301 cccctgcaga atgttcatag gttcccaacc ctcaccccac ccacgggggc ctggagctgc
+      361 aggatcccag gggaggggtc tctctcccca tcccaaggca tccagccctt ctccctgcac
+      421 tcaataaacc ctcaataaat attctcattg acaat
+//

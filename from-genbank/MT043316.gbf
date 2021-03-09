@@ -1,0 +1,80 @@
+LOCUS       MT043316                1611 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta secreted immunoglobulin delta heavy chain constant
+            region (IGHD) mRNA, partial cds.
+ACCESSION   MT043316
+VERSION     MT043316.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 1611)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1611)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..1611
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..1611
+                     /gene="IGHD"
+     C_region        1..1611
+                     /gene="IGHD"
+     CDS             <1..1289
+                     /gene="IGHD"
+                     /codon_start=3
+                     /product="secreted immunoglobulin delta heavy chain
+                     constant region"
+                     /protein_id="QJB76123.1"
+                     /translation="STKAPDVFPITSACQLPKDNSPVVLACLITGYNPKSVTVTWHLG
+                     TQIQNQIMFPETEREGSYTTSSQLAPTPPLSQQHQGEYKCTVKHTPSDTSKEKTFRWP
+                     ESPKAQYPSVPTVQPQAEGGLSKATRPPATNRNTGRREKEDEEEKEQQEGETKTPECP
+                     SHTQPLGVYLLPPALQDLWFQDKVTFTCFVVGSDLQDAHLSWEVAGKVPKGGMEEGPL
+                     EQHSNGSQSQHSRLALPRSLWNAGTSVTCTLNHPSLPSQKLMALREPAAQAPVRLSLN
+                     LLASSDPPEAASWLLCEVSDFSPPNILLMWLENQREVNTSWFATTHPTPQPGSTMFWA
+                     WSVLRVPGPTSPQPATYTCVVSHEDSRTLLNASRSLDVSYLATTPPIPQSKDENSDDY
+                     TTLDDMGSLWTTLSTFVALFVLTLLYSGIVTFIKVK"
+     3'UTR           1290..1611
+                     /gene="IGHD"
+ORIGIN      
+        1 catccaccaa ggctccggat gtgttcccca tcacgtcagc gtgccaactc ccaaaggata
+       61 acagccctgt ggtcctggca tgcttgataa ctgggtacaa cccaaagtcc gtgactgtca
+      121 cctggcacct ggggacacag atccagaacc agattatgtt ccctgagaca gagagagagg
+      181 gcagctacac gacaagcagc cagctcgccc ccaccccacc cctctcccaa cagcaccaag
+      241 gcgagtacaa atgcaccgtc aagcacaccc ccagcgatac aagcaaggag aagaccttcc
+      301 gctggccaga gtctccaaag gcacagtacc cctcagtgcc cactgtacag ccccaagcag
+      361 agggcggcct ctccaaagca accagacccc cggccaccaa caggaacaca ggaagaagag
+      421 aaaaggagga cgaggaggag aaagaacaac aagagggaga gacaaagacc ccagagtgtc
+      481 caagccacac ccagcctctc ggcgtctacc tgctgccccc ggccctgcag gacctgtggt
+      541 tccaagacaa agtcaccttc acctgcttcg tggtgggcag tgacctgcag gatgcccacc
+      601 tgtcctggga ggtggccggg aaggtcccca aagggggcat ggaggagggg ccgctggagc
+      661 agcacagcaa cggctcccag agccagcaca gccgcctggc cctacccagg tccttgtgga
+      721 atgcggggac ctccgtcacc tgcacactga accatcccag cctcccatcc cagaagctga
+      781 tggcgctgag agaacccgct gcccaggcac ccgtcaggct ttccctgaac ctgttggcct
+      841 cgtctgaccc tccggaagca gcctcatggc tcctgtgtga ggtgtctgac ttctcgcccc
+      901 ccaacatcct cctgatgtgg ctggagaacc agcgcgaggt gaacacttct tggtttgcca
+      961 ccacgcaccc cactccacag cctgggagca ccatgttctg ggcctggagt gtgctgcgtg
+     1021 tcccaggccc gaccagccct cagccagcca cctacacgtg tgtggtcagc cacgaggact
+     1081 ccaggactct gctcaacgcc agccggagcc tggatgtcag ctacctggcc acaacccccc
+     1141 cgatccctca gagcaaggat gagaacagcg atgactacac gaccttggat gacatgggca
+     1201 gcctgtggac caccctgtcc acgttcgtgg ccctcttcgt cctcaccctc ctctatagcg
+     1261 gcattgtcac tttcatcaag gtgaagtagc cctagaagag caggacgccc tgtacctgca
+     1321 gaaaagggaa gcagcctctg tgcctcatcc gtggatgcca gagagcagaa aggacccacc
+     1381 ctggactctg ctgtacgcag gaaaatgcac cagcccctgc ctccagctcc cctctgtccg
+     1441 ccacagaacc cagtcttcta gaccagggga atgggcaccc atcactccgc aggtgaagcg
+     1501 gagcacccct gccctggccc taacccctgt gcctccttcc tgtgcttccc ccagagccag
+     1561 ctagtcccat ctgcaccccc cggcctcccc ataaacacgc tttggttcat t
+//

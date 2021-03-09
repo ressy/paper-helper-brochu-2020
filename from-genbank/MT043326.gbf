@@ -1,0 +1,64 @@
+LOCUS       MT043326                 971 bp    mRNA    linear   PRI 25-APR-2020
+DEFINITION  Macaca mulatta T cell receptor alpha constant region (TCRA) mRNA,
+            partial cds.
+ACCESSION   MT043326
+VERSION     MT043326.1
+KEYWORDS    .
+SOURCE      Macaca mulatta (Rhesus monkey)
+  ORGANISM  Macaca mulatta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Cercopithecidae; Cercopithecinae; Macaca.
+REFERENCE   1  (bases 1 to 971)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Systematic profiling of full-length immunoglobulin and T-cell
+            receptor repertoire diversity in rhesus macaque through long read
+            transcriptome sequencing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 971)
+  AUTHORS   Brochu,H.N., Tseng,E., Smith,E., Thomas,M.J., Jones,A., Diveley,K.,
+            Law,L., Hansen,S.G., Picker,L.J., Gale,M. Jr. and Peng,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2020) Molecular Biomedical Sciences, North
+            Carolina State University, 1051 William Moore Dr, Raleigh, NC
+            27607, USA
+FEATURES             Location/Qualifiers
+     source          1..971
+                     /organism="Macaca mulatta"
+                     /mol_type="mRNA"
+                     /strain="Indian origin"
+                     /db_xref="taxon:9544"
+     gene            <1..971
+                     /gene="TCRA"
+     C_region        1..971
+                     /gene="TCRA"
+     CDS             <1..425
+                     /gene="TCRA"
+                     /codon_start=3
+                     /product="T cell receptor alpha constant region"
+                     /protein_id="QJB76133.1"
+                     /translation="IQNPDPAVYQLRGSKSNDTSVCLFTDFDSVMNVSQSKDSDVHIT
+                     DKTVLDMRSMDFKSNGAVAWSNKSDFACTSAFKDSVIPADTFFPGTESVCDANLVEKS
+                     FETDMNLNFQNLSVIGFRILLLKVAGFNLLMTLRLWSS"
+     3'UTR           426..971
+                     /gene="TCRA"
+ORIGIN      
+        1 atatccagaa ccctgaccct gccgtgtacc agctgagagg ctctaaatcc aatgacacct
+       61 ctgtctgcct atttactgat tttgattctg taatgaatgt gtcacaaagc aaggattctg
+      121 acgtgcatat cacagacaaa actgtgctag acatgaggtc tatggacttt aagagcaacg
+      181 gtgctgtggc ctggagcaac aaatccgatt ttgcatgtac aagcgccttc aaggacagcg
+      241 ttattccagc agacaccttc ttccccggca cagaaagtgt ctgtgatgcc aacctggttg
+      301 agaaaagctt tgaaacagat atgaacctaa actttcaaaa cctgtcagtg attgggttcc
+      361 gaatcctcct cctgaaagtg gccgggttta atctgctcat gacgctgcgg ctgtggtcca
+      421 gctgaggtct gcaggattgt aagacagcct gtgctccctc gttccttcct ctgcatcgcc
+      481 cctcctctcc ctctccaagc agagggagct ctcccacccc catggaggag aaagctgcta
+      541 ccacctctgt gccccccggc aatgccacca actggatcct acccaaattt gtgatgaaga
+      601 ttgccgaaga gctgccaaac accgctgcca ccccctctgt tcccttatgg ctgcttgtca
+      661 ctgactgaca ttcacggcag aggcaaggct gctgcagccg cccctggctg tgcacattcc
+      721 ctcccgctcc ccagagactg cctccaccac cccacagatg atggatcctc agtgagttct
+      781 cttgggctct aggtcctgga gaatgttgtg aggggtttat attttttaaa tagggttcat
+      841 aaagaaatac atactattct tcttctcaag acatgggggg aaattatctc attattgagg
+      901 ccctgctatg ctgtgtatct gggtgtgttg tatatcctgc tgccaatggc ttcattaaaa
+      961 tggtttggaa g
+//
