@@ -10,4 +10,4 @@ The Journal of Immunology June 15, 2020, 204 (12) 3434-3444; DOI: [10.4049/jimmu
 
  * GenBank accessions for constant region sequences: MT043311–MT043331
  * BioProject accesion for raw read data: PRJNA389440
- * Zenodo DOI: 10.5281/zenodo.3634898
+ * Zenodo DOI for full CCS reads in Table S1: [10.5281/zenodo.3634898](https://doi.org/10.5281/zenodo.3634898)
