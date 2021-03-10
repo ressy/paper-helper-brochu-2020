@@ -1,0 +1,11 @@
+Tissue,Type of CCS read,Number of CCS reads,% Ig transcripts by IgBLAST,% Ig transcripts by IgBLAST + F + IGC,% TCR transcripts by IgBLAST,% TCR transcripts by TCRC
+Lymph Node,Full,234348,2.311,2.029,0.432,0.160
+Lymph Node,Partial,503492,,,,
+Peripheral Blood Mononuclear Cells,Full,183174,0.291,0.154,0.254,0.130
+Peripheral Blood Mononuclear Cells,Partial,401001,,,,
+Rectal Biopsy,Full,261011,2.492,2.028,0.254,0.008
+Rectal Biopsy,Partial,535317,,,,
+Whole Blood,Full,243466,0.273,0.180,0.162,0.044
+Whole Blood,Partial,442883,,,,
+Total,Full,921999,1.423,1.168,0.275,0.080
+Total,Partial,1882693,,,,

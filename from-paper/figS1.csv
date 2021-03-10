@@ -1,0 +1,11 @@
+Category,Count
+TCR TCRC Only,50
+TCR TCRC and IgBLAST,691
+TCR IgBLAST Only,1843
+TCR IgBLAST Only IGC Subset,979
+Ig IGC Only,209
+Ig IGC Only V Subset,127
+Ig IGC and IgBLAST Functional,5384
+Ig IgBLAST Only Functional,282
+Ig IGC and IgBLAST Nonfunctional,5858
+Ig IgBLAST Only Nonfunctional,2611
